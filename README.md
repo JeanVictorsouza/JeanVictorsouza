@@ -1,5 +1,19 @@
 ## Hello, World! 👋
 
+- 🔭 Hoje trabalhando com Infraestrutura de rede e provisionamento de equipamentos de Telecom
+- 🌱 Cursando Sistemas de informação 8/8
+  
+<!--
+<div>
+  <a href="https://github.com/JeanVictorsouza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanVictorsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictorsouza&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+</div>
+
+-->
+
+![Snake animation](https://github.com/JeanVictorsouza/JeanVictorsouza/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 ![Snake animation](https://raw.githubusercontent.com/JeanVictorsouza/JeanVictorsouza/output/github-contribution-grid-snake.svg)
