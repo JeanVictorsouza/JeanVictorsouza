@@ -2,22 +2,26 @@
 
 - 🔭 Hoje trabalhando com Infraestrutura de rede e provisionamento de equipamentos de Telecom
 - 🌱 Cursando Sistemas de informação 8/8
-  
-<!--
-<div>
-  <a href="https://github.com/JeanVictorsouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanVictorsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictorsouza&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
-
--->
 
 ![Snake animation](https://github.com/JeanVictorsouza/JeanVictorsouza/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!--
-![Snake animation](https://raw.githubusercontent.com/JeanVictorsouza/JeanVictorsouza/output/github-contribution-grid-snake.svg)
--->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <a href="https://github.com/JeanVictorsouza">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api?username=JeanVictorsouza&show_icons=true&theme=dark&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&icon_color=3fb950&border_color=21262d&include_all_commits=true&count_private=true" alt="Jean Souza's GitHub Stats" />
+      </a>
+    </td>
+    <td valign="top" width="36%">
+      <a href="https://github.com/JeanVictorsouza">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JeanVictorsouza&layout=compact&langs_count=16&theme=dark&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9&border_color=21262d" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <!--
 **JeanVictorsouza/JeanVictorsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
